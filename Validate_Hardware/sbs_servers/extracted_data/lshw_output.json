@@ -1,0 +1,92 @@
+{
+    "sbscinderbkp1": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NX50", 
+        "version": "6.68"
+    }, 
+    "sbscinderbkp2": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NXJM", 
+        "version": "6.68"
+    }, 
+    "sbscinderbkp3": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NSYY", 
+        "version": "6.68"
+    }, 
+    "sbscindervol1": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NXK2", 
+        "version": "6.68"
+    }, 
+    "sbscindervol2": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NXJ0", 
+        "version": "6.68"
+    }, 
+    "sbscindervol3": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NX5K", 
+        "version": "6.68"
+    }, 
+    "sbsdeploy1": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT1B", 
+        "version": "6.68"
+    }, 
+    "sbsep1": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW1S"
+    }, 
+    "sbsep2": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X031"
+    }, 
+    "sbsep3": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT0Y", 
+        "version": "6.68"
+    }, 
+    "sbsmonitor1": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT0J", 
+        "version": "6.68"
+    }, 
+    "sbsspare1": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT1R", 
+        "version": "6.68"
+    }, 
+    "sbsspare2": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT0T", 
+        "version": "6.68"
+    }, 
+    "sbsstmon1": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVMY"
+    }, 
+    "sbsstmon2": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVWE"
+    }, 
+    "sbsstmon3": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJPJ"
+    }, 
+    "sbsstmon4": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVX8"
+    }, 
+    "sbsstmon5": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NX5H", 
+        "version": "6.68"
+    }
+}

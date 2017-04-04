@@ -1,0 +1,82 @@
+{
+    "vpc-analytics": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT53", 
+        "version": "6.68"
+    }, 
+    "vpc-aws-api-endpoint1": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVWH"
+    }, 
+    "vpc-aws-api-endpoint2": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVXA"
+    }, 
+    "vpc-ctrl1": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NTVY", 
+        "version": "6.68"
+    }, 
+    "vpc-ctrl2": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT1K", 
+        "version": "6.68"
+    }, 
+    "vpc-ctrl3": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT50", 
+        "version": "6.68"
+    }, 
+    "vpc-ha-proxy1": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVN1"
+    }, 
+    "vpc-ha-proxy2": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJPL"
+    }, 
+    "vpc-misc1": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NSR0", 
+        "version": "6.68"
+    }, 
+    "vpc-misc2": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT57", 
+        "version": "6.68"
+    }, 
+    "vpc-misc3": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NTNF", 
+        "version": "6.68"
+    }, 
+    "vpc-misc4": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NTNT", 
+        "version": "6.68"
+    }, 
+    "vpc-misc5": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NX5S", 
+        "version": "6.68"
+    }, 
+    "vpc-misc6": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NX60", 
+        "version": "6.68"
+    }, 
+    "vpc-monitoring": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT1X", 
+        "version": "6.68"
+    }, 
+    "vpc-service": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NTNK", 
+        "version": "6.68"
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "vpc-analytics": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH436NT53", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.168", 
+        "memory": {
+            "buffers": "18", 
+            "cached": "46", 
+            "free memory": "128333", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "568", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "vpc-aws-api-endpoint1": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVWH"
+        }, 
+        "ip": "10.140.211.162", 
+        "memory": {
+            "buffers": "12", 
+            "cached": "45", 
+            "free memory": "128278", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "538", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "vpc-aws-api-endpoint2": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVXA"
+        }, 
+        "ip": "10.140.211.163", 
+        "memory": {
+            "buffers": "12", 
+            "cached": "45", 
+            "free memory": "128276", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "540", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "vpc-ctrl1": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH436NTVY", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.164", 
+        "memory": {
+            "buffers": "18", 
+            "cached": "47", 
+            "free memory": "128341", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "560", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "vpc-ctrl2": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH436NT1K", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.165", 
+        "memory": {
+            "buffers": "17", 
+            "cached": "46", 
+            "free memory": "128341", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "560", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "vpc-ctrl3": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH436NT50", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.166", 
+        "memory": {
+            "buffers": "13", 
+            "cached": "45", 
+            "free memory": "128345", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "556", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "vpc-ha-proxy1": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVN1"
+        }, 
+        "ip": "10.140.211.160", 
+        "memory": {
+            "buffers": "12", 
+            "cached": "46", 
+            "free memory": "128278", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "538", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "vpc-ha-proxy2": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WJPL"
+        }, 
+        "ip": "10.140.211.161", 
+        "memory": {
+            "buffers": "12", 
+            "cached": "45", 
+            "free memory": "128276", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "540", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "vpc-misc1": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH436NSR0", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.170", 
+        "memory": {
+            "buffers": "18", 
+            "cached": "46", 
+            "free memory": "112085", 
+            "shared": "1", 
+            "total memory": "112648", 
+            "total swap": "130909", 
+            "used memory": "562", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "vpc-misc2": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH436NT57", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.171", 
+        "memory": {
+            "buffers": "17", 
+            "cached": "46", 
+            "free memory": "128342", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "559", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "vpc-misc3": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH436NTNF", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.172", 
+        "memory": {
+            "buffers": "18", 
+            "cached": "46", 
+            "free memory": "128342", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "560", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "vpc-misc4": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH436NTNT", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.173", 
+        "memory": {
+            "buffers": "17", 
+            "cached": "46", 
+            "free memory": "128337", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "564", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "vpc-misc5": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH437NX5S", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.174", 
+        "memory": {
+            "buffers": "14", 
+            "cached": "45", 
+            "free memory": "128346", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "555", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "vpc-misc6": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH437NX60", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.175", 
+        "memory": {
+            "buffers": "18", 
+            "cached": "46", 
+            "free memory": "128340", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "561", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "vpc-monitoring": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH436NT1X", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.167", 
+        "memory": {
+            "buffers": "17", 
+            "cached": "46", 
+            "free memory": "128344", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "557", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "vpc-service": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH436NTNK", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.211.169", 
+        "memory": {
+            "buffers": "17", 
+            "cached": "46", 
+            "free memory": "128342", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "559", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }
+}

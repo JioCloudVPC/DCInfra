@@ -1,0 +1,57 @@
+{
+    "iam-db1": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NXK4", 
+        "version": "6.68"
+    }, 
+    "iam-db2": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NXJ2", 
+        "version": "6.68"
+    }, 
+    "iam-db3": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NX4M", 
+        "version": "6.68"
+    }, 
+    "iam-ksapi1": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT0V", 
+        "version": "6.68"
+    }, 
+    "iam-ksapi2": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT11", 
+        "version": "6.68"
+    }, 
+    "iam-ksapi3": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NXJS", 
+        "version": "6.68"
+    }, 
+    "iam-ksapi4": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NTVT", 
+        "version": "6.68"
+    }, 
+    "iam-ksapi5": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NSYE", 
+        "version": "6.68"
+    }, 
+    "iam-ksapi6": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT43", 
+        "version": "6.68"
+    }, 
+    "iam-lb1": {
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVMF", 
+        "version": "HPG1"
+    }, 
+    "iam-lb2": {
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X02W", 
+        "version": "HPG1"
+    }
+}

@@ -1,0 +1,1446 @@
+10.140.208.190 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.191 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.195 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.192 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.193 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.217 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.203 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.197 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.205 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.199 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.214 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.211 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.200 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.216 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.212 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.204 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.208 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.209 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.202 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.210 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.207 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.215 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.206 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.213 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+No hosts matched
+No hosts matched
+10.140.208.190 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.191 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.192 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.193 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+No hosts matched
+10.140.208.195 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+No hosts matched
+10.140.208.197 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+No hosts matched
+10.140.208.199 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.200 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+No hosts matched
+10.140.208.202 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.203 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.204 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.205 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.206 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.207 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.208 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.209 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.210 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.211 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.212 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.213 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.214 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.215 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.216 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+
+10.140.208.217 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   3.7T  0 disk 
+|-sda1   8:1    0   768K  0 part 
+|-sda2   8:2    0   3.5T  0 part /
+`-sda3   8:3    0   128G  0 part [SWAP]
+sdb      8:16   0   3.7T  0 disk 
+sdc      8:32   0   3.7T  0 disk 
+sdd      8:48   0   3.7T  0 disk 
+sde      8:64   0   3.7T  0 disk 
+sdf      8:80   0   3.7T  0 disk 
+sdg      8:96   0   3.7T  0 disk 
+sdh      8:112  0   3.7T  0 disk 
+sdi      8:128  0   3.7T  0 disk 
+sdj      8:144  0   3.7T  0 disk 
+sdk      8:160  0   3.7T  0 disk 
+sdl      8:176  0   3.7T  0 disk 
+sdm      8:192  0   3.7T  0 disk 
+sdn      8:208  0   3.7T  0 disk 
+sdo      8:224  0   3.7T  0 disk 
+sdp      8:240  0   3.7T  0 disk 
+sdq     65:0    0   3.7T  0 disk 
+sdr     65:16   0   3.7T  0 disk 
+sds     65:32   0   3.7T  0 disk 
+sdt     65:48   0   3.7T  0 disk 
+sdu     65:64   0   3.7T  0 disk 
+sdv     65:80   0   3.7T  0 disk 
+sdw     65:96   0   3.7T  0 disk 
+sdx     65:112  0   3.7T  0 disk 
+

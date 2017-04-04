@@ -1,0 +1,54 @@
+10.140.211.121 | success | rc=0 >>
+sbsstmon2
+
+10.140.211.120 | success | rc=0 >>
+sbsstmon1
+
+10.140.211.123 | success | rc=0 >>
+sbsstmon4
+
+10.140.211.122 | success | rc=0 >>
+sbsstmon3
+
+10.140.211.126 | success | rc=0 >>
+sbscindervol2
+
+10.140.211.124 | success | rc=0 >>
+sbsstmon5
+
+10.140.211.129 | success | rc=0 >>
+sbscinderbkp2
+
+10.140.211.128 | success | rc=0 >>
+sbscinderbkp1
+
+10.140.211.132 | success | rc=0 >>
+sbsep2
+
+10.140.211.130 | success | rc=0 >>
+sbscinderbkp3
+
+10.140.211.131 | success | rc=0 >>
+sbsep1
+
+10.140.211.125 | success | rc=0 >>
+sbscindervol1
+
+10.140.211.134 | success | rc=0 >>
+sbsdeploy1
+
+10.140.211.127 | success | rc=0 >>
+sbscindervol3
+
+10.140.211.133 | success | rc=0 >>
+sbsep3
+
+10.140.211.136 | success | rc=0 >>
+sbsspare1
+
+10.140.211.135 | success | rc=0 >>
+sbsmonitor1
+
+10.140.211.137 | success | rc=0 >>
+sbsspare2
+

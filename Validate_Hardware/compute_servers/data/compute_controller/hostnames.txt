@@ -1,0 +1,36 @@
+10.140.210.4 | success | rc=0 >>
+cc1-prod
+
+10.140.210.5 | success | rc=0 >>
+cc2-prod
+
+10.140.210.6 | success | rc=0 >>
+cc3-prod
+
+10.140.210.7 | success | rc=0 >>
+csdb1-prod
+
+10.140.210.11 | success | rc=0 >>
+compute-bastion1-prod
+
+10.140.210.9 | success | rc=0 >>
+csdb3-prod
+
+10.140.210.14 | success | rc=0 >>
+clb2-prod
+
+10.140.210.8 | success | rc=0 >>
+csdb2-prod
+
+10.140.210.10 | success | rc=0 >>
+csdb4-prod
+
+10.140.210.15 | success | rc=0 >>
+compute-spare1
+
+10.140.210.13 | success | rc=0 >>
+clb1-prod
+
+10.140.210.12 | success | rc=0 >>
+compute-bastion2-prod
+

@@ -1,0 +1,626 @@
+10.140.210.32 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.33 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.34 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.35 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.36 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.37 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.38 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.39 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.40 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.41 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.42 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.43 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.44 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.45 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.46 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.47 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.48 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.49 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.50 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.51 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.52 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.53 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.54 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.55 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.56 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.57 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.58 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.59 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.60 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.61 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.62 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.63 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.64 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.65 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.66 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.67 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.68 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.69 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.70 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.71 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.72 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.73 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.74 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.75 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.76 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.77 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.78 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.79 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.80 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.81 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.82 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.83 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+No hosts matched
+10.140.210.85 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.86 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.87 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.88 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.89 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.90 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.91 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.92 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.93 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.94 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+No hosts matched
+10.140.210.96 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.97 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.98 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.99 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.100 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.101 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.102 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.103 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.104 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.105 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.106 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.107 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.108 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.109 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.110 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+
+10.140.210.111 | success | rc=0 >>
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 223.6G  0 disk 
+|-sda1   8:1    0  95.7G  0 part /
+|-sda2   8:2    0     1K  0 part 
+`-sda5   8:5    0 127.9G  0 part [SWAP]
+sdb      8:16   0 223.6G  0 disk 
+

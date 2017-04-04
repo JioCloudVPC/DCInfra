@@ -1,0 +1,66 @@
+10.140.193.6 | success | rc=0 >>
+             total       used       free     shared    buffers     cached
+Mem:        128902        619     128282          1         62         61
+-/+ buffers/cache:        496     128405
+Swap:       131036          0     131036
+
+10.140.193.12 | success | rc=0 >>
+             total       used       free     shared    buffers     cached
+Mem:        128902        643     128258          0         71         65
+-/+ buffers/cache:        507     128394
+Swap:       131036          0     131036
+
+10.140.193.4 | success | rc=0 >>
+             total       used       free     shared    buffers     cached
+Mem:        128902        637     128264          0         74         65
+-/+ buffers/cache:        498     128403
+Swap:       114652          0     114652
+
+10.140.193.13 | success | rc=0 >>
+             total       used       free     shared    buffers     cached
+Mem:        128902        528     128373          0         20         48
+-/+ buffers/cache:        460     128441
+Swap:       131036          0     131036
+
+10.140.193.8 | success | rc=0 >>
+             total       used       free     shared    buffers     cached
+Mem:        128902        655     128247          0         83         65
+-/+ buffers/cache:        505     128396
+Swap:       131036          0     131036
+
+10.140.193.9 | success | rc=0 >>
+             total       used       free     shared    buffers     cached
+Mem:        128902        647     128254          0         74         65
+-/+ buffers/cache:        508     128393
+Swap:       131036          0     131036
+
+10.140.193.7 | success | rc=0 >>
+             total       used       free     shared    buffers     cached
+Mem:        128902        658     128243          0         85         65
+-/+ buffers/cache:        507     128394
+Swap:       131036          0     131036
+
+10.140.193.14 | success | rc=0 >>
+             total       used       free     shared    buffers     cached
+Mem:        128902        652     128249          0         74         66
+-/+ buffers/cache:        511     128390
+Swap:       131036          0     131036
+
+10.140.193.5 | success | rc=0 >>
+             total       used       free     shared    buffers     cached
+Mem:        128902        555     128347          1         13         47
+-/+ buffers/cache:        494     128408
+Swap:       131036          0     131036
+
+10.140.193.16 | success | rc=0 >>
+             total       used       free     shared    buffers     cached
+Mem:        128817        884     127932          1         75        309
+-/+ buffers/cache:        499     128317
+Swap:       130945          0     130945
+
+10.140.193.17 | success | rc=0 >>
+             total       used       free     shared    buffers     cached
+Mem:        128817        885     127931          1         75        309
+-/+ buffers/cache:        501     128316
+Swap:       130945          0     130945
+

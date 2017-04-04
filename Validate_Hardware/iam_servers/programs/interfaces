@@ -1,0 +1,17 @@
+# This file describes the network interfaces available on your system
+# and how to activate them. For more information, see interfaces(5).
+
+# The loopback network interface
+auto lo
+iface lo inet loopback
+
+# The primary network interface
+auto em3
+iface em3 inet static
+        address 10.140.210.4
+        netmask 255.255.254.0
+        network 10.140.210.0
+        broadcast 10.140.210.255
+        gateway 10.140.210.1
+        # dns-* options are implemented by the resolvconf package, if installed
+        dns-nameservers 10.140.218.59

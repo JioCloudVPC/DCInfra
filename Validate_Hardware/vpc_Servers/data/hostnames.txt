@@ -1,0 +1,48 @@
+10.140.211.160 | success | rc=0 >>
+vpc-ha-proxy1
+
+10.140.211.163 | success | rc=0 >>
+vpc-aws-api-endpoint2
+
+10.140.211.162 | success | rc=0 >>
+vpc-aws-api-endpoint1
+
+10.140.211.166 | success | rc=0 >>
+vpc-ctrl3
+
+10.140.211.168 | success | rc=0 >>
+vpc-analytics
+
+10.140.211.167 | success | rc=0 >>
+vpc-monitoring
+
+10.140.211.165 | success | rc=0 >>
+vpc-ctrl2
+
+10.140.211.161 | success | rc=0 >>
+vpc-ha-proxy2
+
+10.140.211.173 | success | rc=0 >>
+vpc-misc4
+
+10.140.211.175 | success | rc=0 >>
+vpc-misc6
+
+10.140.211.174 | success | rc=0 >>
+vpc-misc5
+
+10.140.211.172 | success | rc=0 >>
+vpc-misc3
+
+10.140.211.169 | success | rc=0 >>
+vpc-service
+
+10.140.211.171 | success | rc=0 >>
+vpc-misc2
+
+10.140.211.170 | success | rc=0 >>
+vpc-misc1
+
+10.140.211.164 | success | rc=0 >>
+vpc-ctrl1
+
