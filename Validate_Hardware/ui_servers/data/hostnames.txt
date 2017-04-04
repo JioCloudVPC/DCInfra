@@ -1,0 +1,66 @@
+10.140.212.140 | success | rc=0 >>
+cust-web3
+
+10.140.212.141 | success | rc=0 >>
+cust-web4
+
+10.140.212.142 | success | rc=0 >>
+cust-haproxy-fe1
+
+10.140.212.143 | success | rc=0 >>
+cust-haproxy-fe2
+
+10.140.212.144 | success | rc=0 >>
+cust-frontend-1
+
+10.140.212.150 | success | rc=0 >>
+cust-haproxy-db1
+
+10.140.212.149 | success | rc=0 >>
+cust-backend-2
+
+10.140.212.146 | success | rc=0 >>
+cust-haproxy-be1
+
+10.140.212.145 | success | rc=0 >>
+cust-frontend-2
+
+10.140.212.147 | success | rc=0 >>
+cust-haproxy-be2
+
+10.140.212.148 | success | rc=0 >>
+cust-backend-1
+
+10.140.212.160 | success | rc=0 >>
+cust-haproxy-crmdb2
+
+10.140.212.156 | success | rc=0 >>
+cust-haproxy-crm2
+
+10.140.212.152 | success | rc=0 >>
+cust-backend-db1
+
+10.140.212.158 | success | rc=0 >>
+cust-crm2
+
+10.140.212.157 | success | rc=0 >>
+cust-crm1
+
+10.140.212.155 | success | rc=0 >>
+cust-haproxy-crm1
+
+10.140.212.151 | success | rc=0 >>
+cust-haproxy-db2
+
+10.140.212.159 | success | rc=0 >>
+cust-haproxy-crmdb1
+
+10.140.212.153 | success | rc=0 >>
+cust-backend-db2
+
+10.140.212.161 | success | rc=0 >>
+cust-crmdb1
+
+10.140.212.162 | success | rc=0 >>
+cust-crmdb2
+

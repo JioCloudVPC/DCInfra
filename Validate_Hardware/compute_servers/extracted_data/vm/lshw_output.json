@@ -1,0 +1,887 @@
+{
+    "prod-cp1": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVK9"
+    }, 
+    "prod-cp10": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVHR"
+    }, 
+    "prod-cp100": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW2P"
+    }, 
+    "prod-cp101": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVY2"
+    }, 
+    "prod-cp102": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVY4"
+    }, 
+    "prod-cp103": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVY6"
+    }, 
+    "prod-cp104": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVY8"
+    }, 
+    "prod-cp105": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW04"
+    }, 
+    "prod-cp106": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW06"
+    }, 
+    "prod-cp107": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW08"
+    }, 
+    "prod-cp108": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW0A"
+    }, 
+    "prod-cp109": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW3A"
+    }, 
+    "prod-cp11": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVHT"
+    }, 
+    "prod-cp110": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW3C"
+    }, 
+    "prod-cp111": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW3E"
+    }, 
+    "prod-cp112": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW3H"
+    }, 
+    "prod-cp113": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW16"
+    }, 
+    "prod-cp114": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW18"
+    }, 
+    "prod-cp115": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW1A"
+    }, 
+    "prod-cp116": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW1C"
+    }, 
+    "prod-cp117": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVYK"
+    }, 
+    "prod-cp118": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVYM"
+    }, 
+    "prod-cp119": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVYP"
+    }, 
+    "prod-cp12": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVHW"
+    }, 
+    "prod-cp121": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYXJ"
+    }, 
+    "prod-cp122": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYXL"
+    }, 
+    "prod-cp123": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYXN"
+    }, 
+    "prod-cp124": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYXR"
+    }, 
+    "prod-cp125": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYYW"
+    }, 
+    "prod-cp126": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYYY"
+    }, 
+    "prod-cp127": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X001"
+    }, 
+    "prod-cp128": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X003"
+    }, 
+    "prod-cp129": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X00Y"
+    }, 
+    "prod-cp13": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVPJ"
+    }, 
+    "prod-cp130": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X011"
+    }, 
+    "prod-cp131": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X013"
+    }, 
+    "prod-cp132": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X015"
+    }, 
+    "prod-cp133": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X00D"
+    }, 
+    "prod-cp134": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X00F"
+    }, 
+    "prod-cp135": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X00J"
+    }, 
+    "prod-cp136": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X00L"
+    }, 
+    "prod-cp137": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYX9"
+    }, 
+    "prod-cp138": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYXB"
+    }, 
+    "prod-cp139": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYXD"
+    }, 
+    "prod-cp14": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVPL"
+    }, 
+    "prod-cp140": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYXF"
+    }, 
+    "prod-cp141": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X01R"
+    }, 
+    "prod-cp142": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X01T"
+    }, 
+    "prod-cp143": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X01W"
+    }, 
+    "prod-cp144": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X01Y"
+    }, 
+    "prod-cp145": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW0C"
+    }, 
+    "prod-cp146": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW0E"
+    }, 
+    "prod-cp147": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW0H"
+    }, 
+    "prod-cp148": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW0K"
+    }, 
+    "prod-cp149": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVW6"
+    }, 
+    "prod-cp15": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVPN"
+    }, 
+    "prod-cp150": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVW8"
+    }, 
+    "prod-cp151": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVWA"
+    }, 
+    "prod-cp152": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVWC"
+    }, 
+    "prod-cp153": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVP9"
+    }, 
+    "prod-cp154": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVPB"
+    }, 
+    "prod-cp155": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVPD"
+    }, 
+    "prod-cp156": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVPF"
+    }, 
+    "prod-cp157": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVJR"
+    }, 
+    "prod-cp158": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVJT"
+    }, 
+    "prod-cp159": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVJW"
+    }, 
+    "prod-cp16": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVPR"
+    }, 
+    "prod-cp160": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVJY"
+    }, 
+    "prod-cp161": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVNR"
+    }, 
+    "prod-cp162": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVNT"
+    }, 
+    "prod-cp163": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVNW"
+    }, 
+    "prod-cp164": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVNY"
+    }, 
+    "prod-cp165": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVLL"
+    }, 
+    "prod-cp166": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVLN"
+    }, 
+    "prod-cp167": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVLR"
+    }, 
+    "prod-cp168": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVLT"
+    }, 
+    "prod-cp169": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVN7"
+    }, 
+    "prod-cp17": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVNF"
+    }, 
+    "prod-cp170": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVN9"
+    }, 
+    "prod-cp173": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVJ7"
+    }, 
+    "prod-cp174": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVJ9"
+    }, 
+    "prod-cp175": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVJB"
+    }, 
+    "prod-cp176": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVJD"
+    }, 
+    "prod-cp177": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVP1"
+    }, 
+    "prod-cp178": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVP3"
+    }, 
+    "prod-cp179": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVP5"
+    }, 
+    "prod-cp18": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVNJ"
+    }, 
+    "prod-cp180": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVP7"
+    }, 
+    "prod-cp181": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVM5"
+    }, 
+    "prod-cp182": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVM7"
+    }, 
+    "prod-cp184": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVMB"
+    }, 
+    "prod-cp19": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVNL"
+    }, 
+    "prod-cp2": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVKB"
+    }, 
+    "prod-cp20": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVNN"
+    }, 
+    "prod-cp21": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVKJ"
+    }, 
+    "prod-cp22": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVKL"
+    }, 
+    "prod-cp23": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVKN"
+    }, 
+    "prod-cp24": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVKR"
+    }, 
+    "prod-cp25": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVLB"
+    }, 
+    "prod-cp26": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVLD"
+    }, 
+    "prod-cp27": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVLF"
+    }, 
+    "prod-cp28": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVLJ"
+    }, 
+    "prod-cp29": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVL3"
+    }, 
+    "prod-cp3": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVKD"
+    }, 
+    "prod-cp30": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVL5"
+    }, 
+    "prod-cp31": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVL7"
+    }, 
+    "prod-cp32": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVL9"
+    }, 
+    "prod-cp33": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVXS"
+    }, 
+    "prod-cp34": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVXV"
+    }, 
+    "prod-cp35": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVXX"
+    }, 
+    "prod-cp36": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVY0"
+    }, 
+    "prod-cp37": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVYA"
+    }, 
+    "prod-cp38": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVYC"
+    }, 
+    "prod-cp39": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVYE"
+    }, 
+    "prod-cp4": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVKF"
+    }, 
+    "prod-cp40": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVYH"
+    }, 
+    "prod-cp41": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW1E"
+    }, 
+    "prod-cp42": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW1H"
+    }, 
+    "prod-cp43": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW1K"
+    }, 
+    "prod-cp44": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW1M"
+    }, 
+    "prod-cp45": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJN7"
+    }, 
+    "prod-cp46": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJN9"
+    }, 
+    "prod-cp47": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJNB"
+    }, 
+    "prod-cp48": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJND"
+    }, 
+    "prod-cp49": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJPT"
+    }, 
+    "prod-cp5": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVH5"
+    }, 
+    "prod-cp50": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJPW"
+    }, 
+    "prod-cp51": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJPY"
+    }, 
+    "prod-cp52": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW2E"
+    }, 
+    "prod-cp54": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X023"
+    }, 
+    "prod-cp55": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X025"
+    }, 
+    "prod-cp56": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X027"
+    }, 
+    "prod-cp57": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJNR"
+    }, 
+    "prod-cp58": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJNT"
+    }, 
+    "prod-cp59": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJNW"
+    }, 
+    "prod-cp6": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVH7"
+    }, 
+    "prod-cp60": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WJNY"
+    }, 
+    "prod-cp61": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW0M"
+    }, 
+    "prod-cp62": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW0P"
+    }, 
+    "prod-cp63": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW0S"
+    }, 
+    "prod-cp65": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW32"
+    }, 
+    "prod-cp66": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW34"
+    }, 
+    "prod-cp67": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW36"
+    }, 
+    "prod-cp68": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW38"
+    }, 
+    "prod-cp69": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X01F"
+    }, 
+    "prod-cp7": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVH9"
+    }, 
+    "prod-cp70": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X01J"
+    }, 
+    "prod-cp71": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X01L"
+    }, 
+    "prod-cp72": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X01N"
+    }, 
+    "prod-cp73": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X02J"
+    }, 
+    "prod-cp74": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X02L"
+    }, 
+    "prod-cp75": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X02N"
+    }, 
+    "prod-cp76": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X02R"
+    }, 
+    "prod-cp77": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X033"
+    }, 
+    "prod-cp78": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X035"
+    }, 
+    "prod-cp79": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X037"
+    }, 
+    "prod-cp8": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVHB"
+    }, 
+    "prod-cp80": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X039"
+    }, 
+    "prod-cp81": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X045"
+    }, 
+    "prod-cp82": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X047"
+    }, 
+    "prod-cp83": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X049"
+    }, 
+    "prod-cp84": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X04B"
+    }, 
+    "prod-cp85": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYYL"
+    }, 
+    "prod-cp86": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYYN"
+    }, 
+    "prod-cp87": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYYR"
+    }, 
+    "prod-cp88": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WYYT"
+    }, 
+    "prod-cp89": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X005"
+    }, 
+    "prod-cp9": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVHN"
+    }, 
+    "prod-cp90": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X007"
+    }, 
+    "prod-cp91": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X009"
+    }, 
+    "prod-cp92": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X00B"
+    }, 
+    "prod-cp93": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVYV"
+    }, 
+    "prod-cp94": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVYX"
+    }, 
+    "prod-cp95": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW00"
+    }, 
+    "prod-cp96": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW02"
+    }, 
+    "prod-cp97": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW2H"
+    }, 
+    "prod-cp99": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WW2M"
+    }
+}

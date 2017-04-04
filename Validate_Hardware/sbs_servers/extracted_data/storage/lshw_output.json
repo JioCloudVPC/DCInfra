@@ -1,0 +1,232 @@
+{
+    "sbsst1": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHY9", 
+        "version": "2.49"
+    }, 
+    "sbsst10": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X45W", 
+        "version": "2.49"
+    }, 
+    "sbsst11": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X45J", 
+        "version": "2.49"
+    }, 
+    "sbsst12": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X46D", 
+        "version": "2.49"
+    }, 
+    "sbsst13": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X46B", 
+        "version": "2.49"
+    }, 
+    "sbsst14": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X45L", 
+        "version": "2.49"
+    }, 
+    "sbsst15": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X45Y", 
+        "version": "2.49"
+    }, 
+    "sbsst16": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X463", 
+        "version": "2.49"
+    }, 
+    "sbsst17": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHX5", 
+        "version": "2.49"
+    }, 
+    "sbsst18": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHY1", 
+        "version": "2.49"
+    }, 
+    "sbsst19": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHXF", 
+        "version": "2.49"
+    }, 
+    "sbsst2": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHXR", 
+        "version": "2.49"
+    }, 
+    "sbsst20": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHXN", 
+        "version": "2.49"
+    }, 
+    "sbsst21": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHXB", 
+        "version": "2.49"
+    }, 
+    "sbsst22": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHXJ", 
+        "version": "2.49"
+    }, 
+    "sbsst23": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WJ1F", 
+        "version": "2.49"
+    }, 
+    "sbsst24": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WJ1D", 
+        "version": "2.49"
+    }, 
+    "sbsst25": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X38F", 
+        "version": "2.49"
+    }, 
+    "sbsst26": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X38T", 
+        "version": "2.49"
+    }, 
+    "sbsst28": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X38Y", 
+        "version": "2.49"
+    }, 
+    "sbsst29": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WJ2B", 
+        "version": "3.00"
+    }, 
+    "sbsst3": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHY3", 
+        "version": "2.49"
+    }, 
+    "sbsst30": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WJ29", 
+        "version": "2.49"
+    }, 
+    "sbsst31": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WJ2L", 
+        "version": "2.49"
+    }, 
+    "sbsst32": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X383", 
+        "version": "2.49"
+    }, 
+    "sbsst33": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHY7", 
+        "version": "2.49"
+    }, 
+    "sbsst34": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHXT", 
+        "version": "2.49"
+    }, 
+    "sbsst35": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHYB", 
+        "version": "2.49"
+    }, 
+    "sbsst36": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHXL", 
+        "version": "2.49"
+    }, 
+    "sbsst37": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHX9", 
+        "version": "2.49"
+    }, 
+    "sbsst38": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHX3", 
+        "version": "2.49"
+    }, 
+    "sbsst39": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHWW", 
+        "version": "2.49"
+    }, 
+    "sbsst4": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHWT", 
+        "version": "2.49"
+    }, 
+    "sbsst40": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WHX1", 
+        "version": "2.49"
+    }, 
+    "sbsst41": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X38B", 
+        "version": "2.49"
+    }, 
+    "sbsst42": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X389", 
+        "version": "2.49"
+    }, 
+    "sbsst44": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X38R", 
+        "version": "2.49"
+    }, 
+    "sbsst45": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X37Y", 
+        "version": "2.49"
+    }, 
+    "sbsst46": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X38D", 
+        "version": "2.49"
+    }, 
+    "sbsst47": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X381", 
+        "version": "2.49"
+    }, 
+    "sbsst48": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550WJ2J", 
+        "version": "2.49"
+    }, 
+    "sbsst5": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X469", 
+        "version": "2.49"
+    }, 
+    "sbsst6": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X457", 
+        "version": "2.49"
+    }, 
+    "sbsst7": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X46L", 
+        "version": "2.49"
+    }, 
+    "sbsst8": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X465", 
+        "version": "2.49"
+    }, 
+    "sbsst9": {
+        "product": "ProLiant XL420 Gen9", 
+        "serial": "SGH550X461", 
+        "version": "2.49"
+    }
+}

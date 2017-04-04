@@ -1,0 +1,503 @@
+{
+    "cust-backend-1": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVHD"
+        }, 
+        "ip": "10.140.212.148", 
+        "memory": {
+            "buffers": "120", 
+            "cached": "75", 
+            "free memory": "128130", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "686", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-backend-2": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WYYB"
+        }, 
+        "ip": "10.140.212.149", 
+        "memory": {
+            "buffers": "124", 
+            "cached": "75", 
+            "free memory": "128124", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "692", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-backend-db1": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH437NX48", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.212.152", 
+        "memory": {
+            "buffers": "10", 
+            "cached": "45", 
+            "free memory": "128348", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "553", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "cust-backend-db2": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "PDSXK0BRH6Q3YZ"
+        }, 
+        "ip": "10.140.212.153", 
+        "memory": {
+            "buffers": "10", 
+            "cached": "45", 
+            "free memory": "128347", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "554", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "cust-crm1": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVHF"
+        }, 
+        "ip": "10.140.212.157", 
+        "memory": {
+            "buffers": "118", 
+            "cached": "72", 
+            "free memory": "128133", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "683", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-crm2": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WW3S"
+        }, 
+        "ip": "10.140.212.158", 
+        "memory": {
+            "buffers": "125", 
+            "cached": "72", 
+            "free memory": "128126", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "690", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-crmdb1": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH437NX4A", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.212.161", 
+        "memory": {
+            "buffers": "10", 
+            "cached": "45", 
+            "free memory": "128348", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "553", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "cust-crmdb2": {
+        "hardware": {
+            "product": "ProLiant SL210t Gen8", 
+            "serial": "SGH436NT3V", 
+            "version": "6.68"
+        }, 
+        "ip": "10.140.212.162", 
+        "memory": {
+            "buffers": "10", 
+            "cached": "45", 
+            "free memory": "128348", 
+            "shared": "1", 
+            "total memory": "128902", 
+            "total swap": "131036", 
+            "used memory": "553", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "3.7T", 
+            "sda partitions": "3"
+        }
+    }, 
+    "cust-frontend-1": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVXH"
+        }, 
+        "ip": "10.140.212.144", 
+        "memory": {
+            "buffers": "118", 
+            "cached": "75", 
+            "free memory": "128128", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "688", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-frontend-2": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550X029"
+        }, 
+        "ip": "10.140.212.145", 
+        "memory": {
+            "buffers": "124", 
+            "cached": "63", 
+            "free memory": "128136", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "681", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-haproxy-be1": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVN5"
+        }, 
+        "ip": "10.140.212.146", 
+        "memory": {
+            "buffers": "127", 
+            "cached": "75", 
+            "free memory": "128122", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "694", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-haproxy-be2": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WJPR"
+        }, 
+        "ip": "10.140.212.147", 
+        "memory": {
+            "buffers": "119", 
+            "cached": "76", 
+            "free memory": "128127", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "689", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-haproxy-crm1": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVWM"
+        }, 
+        "ip": "10.140.212.155", 
+        "memory": {
+            "buffers": "135", 
+            "cached": "63", 
+            "free memory": "128125", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "691", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-haproxy-crm2": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVXE"
+        }, 
+        "ip": "10.140.212.156", 
+        "memory": {
+            "buffers": "116", 
+            "cached": "74", 
+            "free memory": "128135", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "681", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-haproxy-crmdb1": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WW1V"
+        }, 
+        "ip": "10.140.212.159", 
+        "memory": {
+            "buffers": "128", 
+            "cached": "64", 
+            "free memory": "128133", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "683", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-haproxy-crmdb2": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WW3K"
+        }, 
+        "ip": "10.140.212.160", 
+        "memory": {
+            "buffers": "125", 
+            "cached": "75", 
+            "free memory": "128123", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "693", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-haproxy-db1": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVWK"
+        }, 
+        "ip": "10.140.212.150", 
+        "memory": {
+            "buffers": "128", 
+            "cached": "63", 
+            "free memory": "128133", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "683", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-haproxy-db2": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVXC"
+        }, 
+        "ip": "10.140.212.151", 
+        "memory": {
+            "buffers": "132", 
+            "cached": "74", 
+            "free memory": "128120", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "696", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-haproxy-fe1": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WVN3"
+        }, 
+        "ip": "10.140.212.142", 
+        "memory": {
+            "buffers": "12", 
+            "cached": "47", 
+            "free memory": "128277", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "539", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-haproxy-fe2": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WJPN"
+        }, 
+        "ip": "10.140.212.143", 
+        "memory": {
+            "buffers": "126", 
+            "cached": "76", 
+            "free memory": "128121", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "695", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-web3": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WW1X"
+        }, 
+        "ip": "10.140.212.140", 
+        "memory": {
+            "buffers": "127", 
+            "cached": "62", 
+            "free memory": "128133", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "683", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }, 
+    "cust-web4": {
+        "hardware": {
+            "capabilities": "msix pciexpress pm bus_master cap_list", 
+            "product": "ProLiant XL170r Gen9", 
+            "serial": "SGH550WW3M"
+        }, 
+        "ip": "10.140.212.141", 
+        "memory": {
+            "buffers": "124", 
+            "cached": "72", 
+            "free memory": "128126", 
+            "shared": "1", 
+            "total memory": "128817", 
+            "total swap": "130945", 
+            "used memory": "690", 
+            "used swap": "0"
+        }, 
+        "storage": {
+            "sda": "223.6G", 
+            "sda partitions": "3", 
+            "sdb": "223.6G"
+        }
+    }
+}

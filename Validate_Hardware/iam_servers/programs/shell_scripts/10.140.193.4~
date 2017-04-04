@@ -1,0 +1,21 @@
+import os
+interface = ""
+f = open("../../etc/network/interfaces",'r')
+newdata = f.read()
+f.close()
+f = open("../../etc/network/interfaces")
+for line in f:
+	if "static" in line:
+		interface = line.split(" ")[1]
+f.close()
+newdata = newdata.replace("","")
+newdata = newdata.replace("","")
+f = open("../../etc/network/interfaces",'w')
+f.write(newdata)
+f.close()
+exec_command = "sudo ifdown" + " " + interface
+os.system(exec_command)
+exec_command = "sudo sudo ip addr flush dev" + " " + interface
+os.system(exec_command)
+exec_command = "sudo ifup"+ " " + interface
+os.system(exec_command)

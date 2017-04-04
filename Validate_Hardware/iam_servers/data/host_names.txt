@@ -1,0 +1,33 @@
+10.140.193.7 | success | rc=0 >>
+iam-ksapi4
+
+10.140.193.16 | success | rc=0 >>
+iam-lb1
+
+10.140.193.4 | success | rc=0 >>
+iam-ksapi1
+
+10.140.193.14 | success | rc=0 >>
+iam-db3
+
+10.140.193.5 | success | rc=0 >>
+iam-ksapi2
+
+10.140.193.9 | success | rc=0 >>
+iam-ksapi6
+
+10.140.193.8 | success | rc=0 >>
+iam-ksapi5
+
+10.140.193.12 | success | rc=0 >>
+iam-db1
+
+10.140.193.6 | success | rc=0 >>
+iam-ksapi3
+
+10.140.193.13 | success | rc=0 >>
+iam-db2
+
+10.140.193.17 | success | rc=0 >>
+iam-lb2
+

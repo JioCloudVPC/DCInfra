@@ -1,0 +1,62 @@
+{
+    "dssbootstrap": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NX5P", 
+        "version": "6.68"
+    }, 
+    "dsslb1": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550WVMJ"
+    }, 
+    "dsslb2": {
+        "capabilities": "msix pciexpress pm bus_master cap_list", 
+        "product": "ProLiant XL170r Gen9", 
+        "serial": "SGH550X02T"
+    }, 
+    "dsssmtp1": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NTVR", 
+        "version": "6.68"
+    }, 
+    "dssspare1": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NX92", 
+        "version": "6.68"
+    }, 
+    "dssstmon2": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NSYT", 
+        "version": "6.68"
+    }, 
+    "dssstmon3": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT49", 
+        "version": "6.68"
+    }, 
+    "dssstmon4": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NXJX", 
+        "version": "6.68"
+    }, 
+    "dssstmon5": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH436NT0P", 
+        "version": "6.68"
+    }, 
+    "dssstmon6": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NXHV", 
+        "version": "6.68"
+    }, 
+    "dssstmon7": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NXJV", 
+        "version": "6.68"
+    }, 
+    "dssstmonleader": {
+        "product": "ProLiant SL210t Gen8", 
+        "serial": "SGH437NX4E", 
+        "version": "6.68"
+    }
+}
